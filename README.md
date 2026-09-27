@@ -60,21 +60,15 @@ Plot the message signal, carrier signal, DSBSC modulated signal, and the recover
 
 ## TABULATION
 
-| Sl. No. | SIGNAL                 | AMPLITUDE (V)  | FREQUENCY (Hz) |
-| ------- | ---------------------- | -------------- | -------------- |
-| **1**   | **Message Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **2**   | **Carrier Signal**     | **Theory:**    | **Theory:**    |
-|         |                        | **Practical:** | **Practical:** |
-| **3**   | **Modulated Signal**   | **Practical:** |                |
-|         |                        | **Emax =**     |                |
-|         |                        | **Emin =**     |                |
-| **4**   | **Demodulated Signal** | **Practical:** |                |
+<img width="1600" height="870" alt="WhatsApp Image 2026-09-28 at 2 21 27 AM" src="https://github.com/user-attachments/assets/930a8dc4-599a-4fcd-8809-63302fa8a672" />
+
 
 ---
 
-## MODEL GRAPH
+## CALCULATION
 
-**Practical**
+<img width="1599" height="896" alt="WhatsApp Image 2026-09-28 at 2 21 27 AM (1)" src="https://github.com/user-attachments/assets/90ee14c7-a152-4f3d-b19d-061631806836" />
 
----
+
+## RESULT 
+Thus the DSB-SC-AM Modulation and Demodulation is generated.
